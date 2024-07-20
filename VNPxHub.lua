@@ -26,5 +26,4 @@ while spam == true do wait()
 local tn = "GAY,LGBT"
 game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(tn,"All")
 end
-end
 })
